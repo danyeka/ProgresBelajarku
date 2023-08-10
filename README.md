@@ -2,6 +2,7 @@
 Repositori ini Berisi Pengalaman Belajarku di Dicoding
 
 **9 Agustus 2023**
+
 Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
 
   * Memahami Kebutuhan Aplikasi
@@ -11,6 +12,7 @@ Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 10
   * Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
 
 **9 Agustus 2023** 
+
 Belajar Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progres 100%)
 
   * Pendahuluan : Pengenalan istilah logika dan algoritma dan jenis-jenis logika pemrograman dasar. 
